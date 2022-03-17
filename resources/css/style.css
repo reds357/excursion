@@ -13,8 +13,8 @@ h1 {
 }
 
 a {
-    color:aquamarine; 
     font-size: 16px;
+    color:aquamarine; 
 }
 
 h2 {
@@ -22,6 +22,7 @@ h2 {
     font-weight: 300;
     font-size: 42px;
     text-align: center;
+    color: white;
 }
 
 p {
@@ -30,6 +31,23 @@ p {
     color: gray;
 }
 
-#p2 {
+.p2 {
     text-align: right;
+}
+
+.camp {
+    display: block;
+    margin: auto;
+}
+
+.phone {
+    padding-top: 25px;
+    display: block;
+    margin: auto;
+}
+
+video {
+    display: block;
+    margin: auto;
+    padding-top: 25px;
 }
