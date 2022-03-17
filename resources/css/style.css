@@ -31,8 +31,11 @@ p {
     color: gray;
 }
 
-.p2 {
+footer {
     text-align: right;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 21px;
+    color: gray;
 }
 
 .camp {
